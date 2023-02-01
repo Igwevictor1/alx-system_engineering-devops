@@ -1,2 +1,1 @@
-# 0x06. Regular expression
-> ## Foundations - System engineering & DevOps ― Scripting
+its simple regular expressions, regexp for short

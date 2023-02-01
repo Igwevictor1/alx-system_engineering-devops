@@ -1,2 +1,1 @@
-#!/usr/bin/env ruby
-puts ARGV[0].scan(/School/).join;
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCLhqC3/wgyUCvtOujv5winEpInCphPXzwiuM8NIYEoI+hNRhOwY1bSsta6yc1g/xvO9iH2VIA/0jWc9fneIT1T7Bhb+v3zI6cFh5I2wumLSZWUKScIVt/1mFOVHopz+HNu5JKOJm4/BK15h1UtZDiM/woKpeEZn+cm6J5xkVn507PTk2VTbRn+1Nh2xVtG3ikwEgbFsBwbK+di1FjlTTzJdyGJFx5H6Kjz7ZRi5wbW5r+XXfJduRbzZbl+vP1KJXMVSEhkonFjhjr3T0AdJ82LN4IT+CXX+WeCBDlLdR68gLFLyhABAi+cZQ+FtIPbLj2cM6EEAfhx5InAC9lONFZz
