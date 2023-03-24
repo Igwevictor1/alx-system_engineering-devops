@@ -1,8 +1,8 @@
 # puppet create a file
 
-file { '/tmp/holberton':
+file { '/tmp':
   ensure  => file,
-  path    => '/tmp/holberton',
+  path    => '/tmp/school',
   mode    => '0744',
   owner   => 'www-data',
   group   => 'www-data',
