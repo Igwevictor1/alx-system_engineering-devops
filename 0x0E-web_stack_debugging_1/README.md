@@ -49,11 +49,3 @@ __Click the "watch video" to play video__ [__watch video__](https://youtu.be/Fx6
 ### Try It On Your Machine :computer:
 
 ```bash
-git clone https://github.com/sammykingx/alx-system_engineering-devops.git
-cd 0x0E-web_stack_debugging_1
-cat FILENAME
-curl 0:80
-cat -e FILENAME | wc -l
-curl 0:80
-```
-_Watch the video "[watch now](https://youtu.be/Fx6ewkKQdU0) to see how i did mine"_
