@@ -1,0 +1,9 @@
+--create a database and table and grant holberton SELECT permission
+CREATE DATABASE tyrell_corp;
+USE tyrell_corp;
+CREATE TABLE nexus6 (
+id INT,
+name VARCHAR(55),
+class VARCHAR(10));
+INSERT INTO nexus6 (id, name, class) VALUES (1, 'joy_onanome', 'primary3');
+GRANT SELECT ON tyrell_corp.nexus6 TO 'holberton_user'@'localhost';

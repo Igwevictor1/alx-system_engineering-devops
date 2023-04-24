@@ -1,0 +1,4 @@
+--Creating user
+CREATE USER 'holberton_user'@'localhost' IDENTIFIED BY 'projectcorrection280hbtn';
+--granting holberton permission and letting them in
+GRANT REPLICATION CLIENT ON *.* TO 'holberton_user'@'localhost';
